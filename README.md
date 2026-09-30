@@ -61,6 +61,5 @@ This project helped me practice:
 * GUI interface
 * SQLite database
 * Job API integration
-* Application analytics
 * Interview and follow-up reminders
 * CSV export
